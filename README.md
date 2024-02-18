@@ -83,7 +83,7 @@ User already Present with email : user@example.com
   "username": "user@example.com"
 }
 ```
-* Failure (HTTP 400 Bad Request):
+* Failure (HTTP 401 UNAUTHORIZED):
 ```text
 Invalid Username or Password  !!
 ```
